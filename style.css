@@ -2,5 +2,9 @@
 body {
     background: blue;
     text-align:center;
+    font-size: 400 px;
   }
   
+  #red{
+    color:crimson
+  }
